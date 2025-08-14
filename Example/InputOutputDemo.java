@@ -1,4 +1,4 @@
-package com.example.demo.internship.inputoutput;
+package com.example.demo.example.inputoutput;
 
 import java.util.Scanner;
 
